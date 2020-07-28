@@ -38,10 +38,9 @@ date_format = "Jan 2006"
   location = "Taipei, Taiwan"
   date_start = "2018-02-24"
   date_end = "2018-12-17"
-  description = """
-  * Developed time-domain autoregressive vocoder model for music signal synthesis.
-  * Developed differentiable Multi-layered Cepstrum music transcription model and trained it on large scale data.
-  * Implemented WaveNet, FFTNet and WaveGlow model in PyTorch.
+  description = """* Developed time-domain autoregressive vocoder model for music signal synthesis.
+* Developed differentiable Multi-layered Cepstrum music transcription model and trained it on large scale data.
+* Implemented WaveNet, FFTNet and WaveGlow model in PyTorch.
   """
 
 +++
