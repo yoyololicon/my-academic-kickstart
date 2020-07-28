@@ -18,12 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Familiar frameworks:
-  * NumPy
-  * SciPy
-  * PyTorch
-  * Tensorflow
-  "
+  description = "70%"
   
 
 
